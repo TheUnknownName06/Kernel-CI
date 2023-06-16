@@ -1,6 +1,6 @@
 #INFORMATION KERNEL
 link_kernel=https://github.com/Rem01Gaming/liquid_kernel_realme_even
-name_zip=Liquid-318-Test
+name_zip=Liquid-318-Tes
 local_version=-liquidfy
 kbuild_user=ismasrull
 kbuild_host=AndroidTermux
